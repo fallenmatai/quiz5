@@ -8,4 +8,6 @@ steam თამაშების მონაცემთა ვიზუალ
 2. რეცენზიები- თითოეული თამაშისთვის ნაჩვენებია steam-დან დადებითი და უარყოფითი შეფასებების რაოდენობა
 3. ჟანრები- ასახავს ჟანრების ზოგად პროცენტულ განაწილებას steam-ზე.
 
+   database on kaggle - https://www.kaggle.com/datasets/joebeachcapital/top-1000-steam-games?resource=download
+
 :3
